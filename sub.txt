@@ -1,5 +1,11 @@
-#profile-title: Test
+#profile-title: krevetkk VPN
 #announce: t.me/teyck
 #profile-update-interval: 1
 
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@91.240.86.211:443?mode=gun&security=reality&encryption=none&authority=&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&allowinsecure=0&type=grpc&serviceName=cheburnet-max&sni=max.ru#🇫🇮 Finland | Белые списки
+
+vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@81.163.22.31:7443?security=reality&encryption=none&pbk=mg0_vScapBay--mGHtgepcDY6pT8DbnZUXJr8ka8CXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#🇨🇿 Czechia | Белые списки
+
+vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@art.lavivas.org:7443?security=reality&encryption=none&pbk=mg0_vScapBay--mGHtgepcDY6pT8DbnZUXJr8ka8CXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#🇷🇺 Russia | Белые списки
+
+vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@81.163.22.31:7443?security=reality&encryption=none&pbk=mg0_vScapBay--mGHtgepcDY6pT8DbnZUXJr8ka8CXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#🇷🇺 Russia 2 | Белые списки
