@@ -1,4 +1,4 @@
-#profile-title: krevetkk VPN
+#profile-title: 🍤 krevetkk VPN
 #announce: t.me/teyck
 #profile-update-interval: 1
 
