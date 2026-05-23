@@ -16,7 +16,7 @@ vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@81.163.22.31:7443?security=reality&
 
 vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@api.xwhiteness.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6D3MsXVNHjWAmxIRlBTmZAw7fK8bCQIBN3TkZ2_F-hg&security=reality&sid=&sni=api.xwhiteness.site&type=tcp#🇸🇰 Slovakia | Чёрные списки
 
-vless://3060ef83-54e0-4a28-9608-1fe03b187ee1@us.clickvpn.work:443?encryption=none&flow=&fp=chrome&pbk=gvbptNLMh_jNnAmr0Io1s94_Rc1ErZyCLUC_pLqoG3I&security=reality&sid=390ec8&sni=www.icloud.com&type=tcp#🇺🇲 USA | Чёрные списки
+vless://3060ef83-54e0-4a28-9608-1fe03b187ee1@us.clickvpn.work:443?encryption=none&flow=&fp=chrome&pbk=gvbptNLMh_jNnAmr0Io1s94_Rc1ErZyCLUC_pLqoG3I&security=reality&sid=390ec8&sni=www.icloud.com&type=tcp#🇺🇸 USA | Чёрные списки
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbEdPZWIxSW1kVmUzcmM0NWMzSjV3eGQ0Y3ViSmkwYVZWUnRHaQ==@209.182.232.30:41348#🇮🇳 India | Чёрные списки
 
@@ -30,7 +30,7 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.189:38388#🇦🇹 Austria | Чёрные списки
 
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.202:38388#🇪🇦 Spain | Чёрные списки
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.202:38388#🇪🇸 Spain | Чёрные списки
 
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.122:38388#🇸🇦 Саудовская Аравия | Чёрные списки
 
