@@ -21,9 +21,3 @@ vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@api.xwhiteness.site:443?encryption=
 vless://3060ef83-54e0-4a28-9608-1fe03b187ee1@us.clickvpn.work:443?encryption=none&flow=&fp=chrome&pbk=gvbptNLMh_jNnAmr0Io1s94_Rc1ErZyCLUC_pLqoG3I&security=reality&sid=390ec8&sni=www.icloud.com&type=tcp#🇺🇸 USA | Чёрные списки
 
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@70.36.96.118:443?encryption=none&flow=&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇭🇰 HongKong | Чёрные списки
-
-vless://9cdba376-d1a1-4317-8770-a1b6f155bdc3@nid.hatvpn.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&security=reality&sid=054602d818379876&sni=nid.hatvpn.org&type=tcp#🇳🇱 Netherlands | Чёрные списки
-
-vless://404b057c-3b66-407e-b465-240893bc9337@1mik16svvkk.country-36.de-nfast.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=jp.de-nfast.com&type=tcp#🇯🇵 Japan | Чёрные списки
-
-vless://9cdba376-d1a1-4317-8770-a1b6f155bdc3@pol.hatvpn.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PL-jIhHOxLpCUmnDvMEsB3YY3n8o7smiAT0P_SV6RCM&security=reality&sid=19d6296d2621d9fa&sni=pol.hatvpn.org&type=tcp#🇸🇪 Sweden | Чёрные списки
