@@ -1,0 +1,5 @@
+#profile-title: Test
+#announce: t.me/teyck
+#profile-update-interval: 1
+
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@91.240.86.211:443?mode=gun&security=reality&encryption=none&authority=&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&allowinsecure=0&type=grpc&serviceName=cheburnet-max&sni=max.ru#🇫🇮 Finland | Белые списки
