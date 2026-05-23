@@ -14,6 +14,15 @@ vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@art.lavivas.org:7443?security=reali
 
 vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@81.163.22.31:7443?security=reality&encryption=none&pbk=mg0_vScapBay--mGHtgepcDY6pT8DbnZUXJr8ka8CXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#🇷🇺 Russia 2 | Белые списки
 
+
+
+vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@api.xwhiteness.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6D3MsXVNHjWAmxIRlBTmZAw7fK8bCQIBN3TkZ2_F-hg&security=reality&sid=&sni=api.xwhiteness.site&type=tcp#🇸🇰 Slovakia | Чёрные списки
+
+vless://3060ef83-54e0-4a28-9608-1fe03b187ee1@us.clickvpn.work:443?encryption=none&flow=&fp=chrome&pbk=gvbptNLMh_jNnAmr0Io1s94_Rc1ErZyCLUC_pLqoG3I&security=reality&sid=390ec8&sni=www.icloud.com&type=tcp#🇺🇸 USA | Чёрные списки
+
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@70.36.96.118:443?encryption=none&flow=&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇭🇰 HongKong | Чёрные списки
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#🇸🇬 Singapore | Чёрные списки
 vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@api.xwhiteness.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6D3MsXVNHjWAmxIRlBTmZAw7fK8bCQIBN3TkZ2_F-hg&security=reality&sid=&sni=api.xwhiteness.site&type=tcp#🇸🇰 Slovakia | Чёрные списки
 
 vless://3060ef83-54e0-4a28-9608-1fe03b187ee1@us.clickvpn.work:443?encryption=none&flow=&fp=chrome&pbk=gvbptNLMh_jNnAmr0Io1s94_Rc1ErZyCLUC_pLqoG3I&security=reality&sid=390ec8&sni=www.icloud.com&type=tcp#🇺🇸 USA | Чёрные списки
