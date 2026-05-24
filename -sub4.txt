@@ -1,5 +1,5 @@
 #profile-title: 🍤 krevetkk VPN
-#announce: t.me/teyck
+#announce: t.me/teyck | Редкие сервера ЧС могут временно не работать!
 #profile-update-interval: 1
 
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@91.240.86.211:443?mode=gun&security=reality&encryption=none&authority=&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&allowinsecure=0&type=grpc&serviceName=cheburnet-max&sni=max.ru#🇫🇮 Finland | Белые списки
@@ -13,10 +13,6 @@ vless://29dfcdbb-a134-4928-8680-332cf219789d@ru-7.maxg.ch:443?security=reality&e
 
 
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@70.36.96.118:443?encryption=none&flow=&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇭🇰 HongKong | Чёрные списки
-
-vless://35fd6e20-d441-018e-bf75-3182f43a4489@auto.trahodrom.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.trahodrom.fun&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp#🇰🇿%20Kazakhstan%20%7C%20Чёрные%20списки
-
-vless://35fd6e20-d441-0188-bf75-3182f43a4489@auto.trahodrom.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.trahodrom.fun&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp#🇯🇵%20Japan%20%7C%20Чёрные%20списки
 
 vless://23acdb93-4044-4eeb-a693-da04eca9e114@185.185.143.220:27602?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CVPzpNUEIHhWOP8xSK1KJnwc5Ga7EDKLbiMPv2PtECM&security=reality&sid=89e9d68036cbc5cd&sni=www.samsung.com&type=tcp#🇬🇧 Great Britain | Чёрные списки
 
