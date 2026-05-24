@@ -8,11 +8,7 @@ vless://7b988592-3fdd-448d-9f34-2af6025504b7@31.129.42.243:6443?mode=gun&securit
 
 vless://7b988592-3fdd-448d-9f34-2af6025504b7@cdn6.wayanyway.one:443?path=%2Fstream&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=cdn6.wayanyway.one#🇫🇮 Finland 3 | Белые списки
 
-vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@81.163.22.31:7443?security=reality&encryption=none&pbk=mg0_vScapBay--mGHtgepcDY6pT8DbnZUXJr8ka8CXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#🇨🇿 Czechia | Белые списки
-
-vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@art.lavivas.org:7443?security=reality&encryption=none&pbk=mg0_vScapBay--mGHtgepcDY6pT8DbnZUXJr8ka8CXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#🇷🇺 Russia | Белые списки
-
-vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@81.163.22.31:7443?security=reality&encryption=none&pbk=mg0_vScapBay--mGHtgepcDY6pT8DbnZUXJr8ka8CXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#🇷🇺 Russia 2 | Белые списки
+vless://29dfcdbb-a134-4928-8680-332cf219789d@ru-7.maxg.ch:443?security=reality&encryption=none&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6#🇷🇺 Russia | Белые списки
 
 
 
