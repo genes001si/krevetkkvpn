@@ -52,7 +52,7 @@ vless://e1a8186c-caff-4ec3-b301-71d9c479fa56@50.7.244.147:443?encryption=none&fl
 
 vless://1a9f25d4-3a3d-439a-94fe-50d4cfbba218@kinoae3.komediyatorg.net:443?encryption=none&security=tls&sni=kinoae3.komediyatorg.net&type=tcp#🇸🇪 Sweden | Чёрные списки
 
-vless://c9e9af58-3321-5651-bd66-e8161b849c0b@dustyvless-ams-17d2af.fly.dev:443?encryption=none&host=dustyvless-ams-17d2af.fly.dev&path=%2FdatyGVUWJHGF&security=tls&sni=dustyvless-ams-17d2af.fly.dev&type=ws#🇺🇲 USA | Чёрные списки
+vless://c9e9af58-3321-5651-bd66-e8161b849c0b@dustyvless-ams-17d2af.fly.dev:443?encryption=none&host=dustyvless-ams-17d2af.fly.dev&path=%2FdatyGVUWJHGF&security=tls&sni=dustyvless-ams-17d2af.fly.dev&type=ws#🇺🇸 USA | Чёрные списки
 
 vless://ba0c3094-03c1-4884-9e63-424b2a61e607@95.81.102.224:50559?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ahO41SGyJL-bDya75MzTT1nP1K1XPgrfRaVehmatqQo&security=reality&sid=bb3e2bf4d82cbd97&sni=api-maps.yandex.ru&type=tcp#🇳🇱 Netherlands | Чёрные списки
 
