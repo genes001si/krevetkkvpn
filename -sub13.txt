@@ -1,5 +1,6 @@
 #profile-title: 🍤 krevetkk VPN
-#announce: t.me/teyck | Сервера могут иногда не работать! Проверяйте через пинг Proxy GET
+#announce: Сервера могут иногда не работать! Проверяйте через пинг Proxy GET | 🔘 - самые стабильные сервера
+#profile-web-page-url: t.me/teyck
 #profile-update-interval: 1
 
 vless://29dfcdbb-a134-4928-8680-332cf219789d@ru-7.maxg.ch:443?security=reality&encryption=none&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6#🇷🇺 Russia | Белые списки
@@ -14,11 +15,9 @@ vless://f1f6e142-77fe-4203-91a0-5082d3ac79ab@45.148.102.96:50592?encryption=none
 
 vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@88.119.176.125:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=lit2.o4ka-internet.com&type=tcp#🇱🇹 Lithuania | Чёрные списки
 
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WdIX2dBCU2C9IgHXeIpJqckDAKBx1D9E4Sa4oL3uYA4&security=reality&sni=sp.frostmotiveseed.net&type=tcp#🇪🇸 Spain | Чёрные списки
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WdIX2dBCU2C9IgHXeIpJqckDAKBx1D9E4Sa4oL3uYA4&security=reality&sni=sp.frostmotiveseed.net&type=tcp#🇪🇸 Spain | Чёрные списки 🔘
 
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@at3.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y-YdtljDOJbFMqAA7xLO5cTrx6Fy7Ij0Bd6XQTUJQkU&security=reality&sni=at3.frostmotiveseed.net&type=tcp#🇦🇹 Austria | Чёрные списки
-
-vless://35fd6e20-d441-007c-bf75-3182f43a4489@auto.trahodrom.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.trahodrom.fun&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp#🇨🇦%20Canada%20%7C%20Чёрные%20списки
 
 vless://c9e9af58-3321-5651-bd66-e8161b849c0b@dustyvless-ams-17d2af.fly.dev:443?encryption=none&host=dustyvless-ams-17d2af.fly.dev&path=%2FdatyGVUWJHGF&security=tls&sni=dustyvless-ams-17d2af.fly.dev&type=ws#🇺🇸 USA | Чёрные списки
 
@@ -44,4 +43,4 @@ vless://690cff03-0a82-457a-8532-4a83491458fb@sk.synatra.net:29726?encryption=non
 
 vless://e58e475f-04a1-5704-8563-77ea4cbb1e9a@dustyvless-iad-af3e6d.fly.dev:443?encryption=none&host=dustyvless-iad-af3e6d.fly.dev&path=%2FPFpcDfRtnGAU&security=tls&sni=dustyvless-iad-af3e6d.fly.dev&type=ws#🇮🇪 Ireland | Чёрные списки
 
-hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France | Чёрные списки
+hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France | Чёрные списки 🔘 
