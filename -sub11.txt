@@ -32,16 +32,8 @@ vless://ff775d16-a47d-4138-ab66-cca44d3bc380@95.85.255.221:443?encryption=none&f
 
 vless://9bbc4303-c291-42b8-8eb4-38923f4b6cdd@89.185.81.68:443?encryption=none&fp=chrome&pbk=VKnmZTvFbnmlCDWFpZiLw8054w02QOmXmXVCFFG7T2U&security=reality&sid=d5d0&sni=yahoo.com&type=tcp#🇧🇻 Norway | Чёрные списки
 
-vless://10d614db-b261-49f3-8be2-6641f6aee244@212.192.220.198:50545?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xIDkcZPGFAXteOCua74qjQFgtNMycgagBkhZSvO010g&security=reality&sid=defc5a2a37ad6daf&sni=kinopoisk.ru&type=tcp#🇰🇿 Kazakhstan | Чёрные списки
-
-vless://690cff03-0a82-457a-8532-4a83491458fb@am.synatra.net:4430?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ve_gRq67ZmwVXig3oTSuvgh0UHLktlcwyI5XYP4UMyg&security=reality&sid=657e6f4ccdb8a092&sni=deepl.com&type=tcp#🇦🇲 Armenia | Чёрные списки
-
-vless://3a66d4a5-88a6-4729-b7a6-a7f44763a0ed@latvia.grovpn.com.alexanderoff.ru:20462?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k-C3t4XSxqQucWo2DTC0wdB_KSRh3N5DeMgtMcGXpx8&security=reality&sid=3176352ca729&sni=latvia.grovpn.com&type=tcp#🇱🇻 Latvia | Чёрные списки
-
 vless://35325a3c-411e-42a8-962b-db12e55b071d@147.45.165.192:2027?encryption=none&fp=chrome&mode=auto&path=%2Fpatch&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&security=reality&sid=6ba7b8109dad11d1&sni=nl.skysafe.online&type=xhttp#🇳🇱 Netherlands | Чёрные списки
 
-vless://f3d08978-e457-43a3-b062-d74e4328833d@lte.cxhub.su:2016?encryption=none&fp=chrome&mode=multi&pbk=P0fQAbHaRJ6aF8yExwqISCB0ClTrGFhZe7hGDO8YnX4&security=reality&serviceName=cloud&sid=1413cc6a376b5257&sni=cloud.mail.ru&type=grpc#🇱🇺 Luxembourg | Чёрные списки
-
-vless://f3d08978-e457-43a3-b062-d74e4328833d@karabas.cxhub.su:8443?encryption=none&fp=chrome&pbk=P0fQAbHaRJ6aF8yExwqISCB0ClTrGFhZe7hGDO8YnX4&security=reality&serviceName=cloud&sid=1413cc6a376b5257&sni=cloud.mail.ru&type=grpc#🇮🇱 Israel | Чёрные списки
+hysteria2://hysteria2_fastlane_210pha9tw%3AvpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935/?sni=de2.h.fastlanehosting.ru#🇸🇪 Sweden | Чёрные списки
 
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France | Чёрные списки
