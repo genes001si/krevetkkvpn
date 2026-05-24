@@ -22,7 +22,7 @@ vless://de87620b-6bff-4077-99cc-ce65e06b64ed@at3.alexanderoff.ru:4443?encryption
 
 vless://c9e9af58-3321-5651-bd66-e8161b849c0b@dustyvless-ams-17d2af.fly.dev:443?encryption=none&host=dustyvless-ams-17d2af.fly.dev&path=%2FdatyGVUWJHGF&security=tls&sni=dustyvless-ams-17d2af.fly.dev&type=ws#🇺🇸 USA | Чёрные списки
 
-vless://ba0c3094-03c1-4884-9e63-424b2a61e607@95.81.102.224:50559?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ahO41SGyJL-bDya75MzTT1nP1K1XPgrfRaVehmatqQo&security=reality&sid=bb3e2bf4d82cbd97&sni=api-maps.yandex.ru&type=tcp#🇳🇱 Netherlands | Чёрные списки
+vless://ba0c3094-03c1-4884-9e63-424b2a61e607@95.81.102.224:50559?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ahO41SGyJL-bDya75MzTT1nP1K1XPgrfRaVehmatqQo&security=reality&sid=bb3e2bf4d82cbd97&sni=api-maps.yandex.ru&type=tcp#🇳🇱 Netherlands | Чёрные списки 🔘 
 
 vless://705f783d-5a62-4d15-a0a3-4730e621fa2f@193.233.199.48:50548?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FQZSxw_mfoBvef-9sVriSPYIZzZ-qz-s0JvtiycOYTk&security=reality&sid=25a9e36ac3550c5c&sni=api-maps.yandex.ru&type=tcp#🇫🇮 Finland | Чёрные списки
 
@@ -46,8 +46,12 @@ vless://15efeadc-234a-4642-89b1-e34210e51758@89.44.80.22:59999?encryption=none&f
 
 vless://15efeadc-234a-4642-89b1-e34210e51758@185.72.86.180:59999?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&security=reality&sid=a1b2c3d4&sni=yastatic.net&type=tcp#🇱🇻 Latvia | Чёрные списки 
 
-vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@grok.sempai.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qEUU6oGBD_rjO0319EK4rAnsPhlqrb-ecCgQsT4JUmI&security=reality&sni=deepl.com&type=tcp#🇨🇾 Cyprus | Чёрные списки
+vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@grok.sempai.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qEUU6oGBD_rjO0319EK4rAnsPhlqrb-ecCgQsT4JUmI&security=reality&sni=deepl.com&type=tcp#🇨🇾 Cyprus | Чёрные списки 🔘 
 
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru-service5.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=y7KvEE3JCmQfLv2p6xFCWU3PGjcRRfqcbjj4wz_Nu3k&security=reality&sni=ru-service5.frostmotiveseed.net&type=tcp#🇸🇬 Singapore | Чёрные списки
+
+vless://ba0c3094-03c1-4884-9e63-424b2a61e607@95.81.102.224:50559?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ahO41SGyJL-bDya75MzTT1nP1K1XPgrfRaVehmatqQo&security=reality&sid=bb3e2bf4d82cbd97&sni=api-maps.yandex.ru&type=tcp#🇮🇹 Italy | Чёрные списки
+
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.248.118:8443?encryption=none&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇦🇷 Argentina | Чёрные списки
 
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France | Чёрные списки 🔘 
