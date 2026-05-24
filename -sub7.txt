@@ -12,7 +12,7 @@ vless://29dfcdbb-a134-4928-8680-332cf219789d@ru-7.maxg.ch:443?security=reality&e
 
 
 
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.247.134.179:8443?encryption=none&flow=&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇭🇰 HongKong | Чёрные списки
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?encryption=none&host=sn1.skylee5.cloudns.ch&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws#🇭🇰 HongKong | Чёрные списки
 
 vless://23acdb93-4044-4eeb-a693-da04eca9e114@185.185.143.220:27602?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CVPzpNUEIHhWOP8xSK1KJnwc5Ga7EDKLbiMPv2PtECM&security=reality&sid=89e9d68036cbc5cd&sni=www.samsung.com&type=tcp#🇬🇧 Great Britain | Чёрные списки
 
