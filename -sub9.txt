@@ -20,7 +20,7 @@ vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?encryption=
 
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@at3.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y-YdtljDOJbFMqAA7xLO5cTrx6Fy7Ij0Bd6XQTUJQkU&security=reality&sni=at3.frostmotiveseed.net&type=tcp#🇦🇹 Austria | Чёрные списки
 
-vless://1a8081ff-61e7-49b5-8e86-1f835ea9e1d1@canada.gogs.ink:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zeWC31vWK-6rMIa_kiqgZLrtnij8TNrqYZzlXC1jzlA&security=reality&sid=9e33c3e0e7d7ff06&sni=addons.mozilla.org&type=tcp#🇨🇦 Canada | Чёрные списки
+vless://35fd6e20-d441-007c-bf75-3182f43a4489@auto.trahodrom.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.trahodrom.fun&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp#🇨🇦%20Canada%20%7C%20Чёрные%20списки
 
 vless://c9e9af58-3321-5651-bd66-e8161b849c0b@dustyvless-ams-17d2af.fly.dev:443?encryption=none&host=dustyvless-ams-17d2af.fly.dev&path=%2FdatyGVUWJHGF&security=tls&sni=dustyvless-ams-17d2af.fly.dev&type=ws#🇺🇸 USA | Чёрные списки
 
