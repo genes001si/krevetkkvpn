@@ -2,12 +2,6 @@
 #announce: t.me/teyck | Сервера могут иногда не работать! Проверяйте через пинг Proxy GET
 #profile-update-interval: 1
 
-vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@91.240.86.211:443?mode=gun&security=reality&encryption=none&authority=&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&allowinsecure=0&type=grpc&serviceName=cheburnet-max&sni=max.ru#🇫🇮 Finland | Белые списки
-
-vless://7b988592-3fdd-448d-9f34-2af6025504b7@31.129.42.243:6443?mode=gun&security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&fp=qq&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru&sid=5c766813929a1fdd#🇫🇮 Finland 2 | Белые списки
-
-vless://7b988592-3fdd-448d-9f34-2af6025504b7@cdn6.wayanyway.one:443?path=%2Fstream&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=cdn6.wayanyway.one#🇫🇮 Finland 3 | Белые списки
-
 vless://29dfcdbb-a134-4928-8680-332cf219789d@ru-7.maxg.ch:443?security=reality&encryption=none&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6#🇷🇺 Russia | Белые списки
 
 
@@ -33,3 +27,9 @@ vless://c9e9af58-3321-5651-bd66-e8161b849c0b@dustyvless-ams-17d2af.fly.dev:443?e
 vless://ba0c3094-03c1-4884-9e63-424b2a61e607@95.81.102.224:50559?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ahO41SGyJL-bDya75MzTT1nP1K1XPgrfRaVehmatqQo&security=reality&sid=bb3e2bf4d82cbd97&sni=api-maps.yandex.ru&type=tcp#🇳🇱 Netherlands | Чёрные списки
 
 vless://705f783d-5a62-4d15-a0a3-4730e621fa2f@193.233.199.48:50548?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FQZSxw_mfoBvef-9sVriSPYIZzZ-qz-s0JvtiycOYTk&security=reality&sid=25a9e36ac3550c5c&sni=api-maps.yandex.ru&type=tcp#🇫🇮 Finland | Чёрные списки
+
+vless://ff775d16-a47d-4138-ab66-cca44d3bc380@95.85.255.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2uUeX_yOOaOyyY15NwoKjHG_1M8eYtNQHwnMrkkhIEg&security=reality&sni=gov.pl&type=tcp#🇵🇱 Poland | Чёрные списки
+
+vless://9bbc4303-c291-42b8-8eb4-38923f4b6cdd@89.185.81.68:443?encryption=none&fp=chrome&pbk=VKnmZTvFbnmlCDWFpZiLw8054w02QOmXmXVCFFG7T2U&security=reality&sid=d5d0&sni=yahoo.com&type=tcp#🇧🇻 Norway | Чёрные списки
+
+vless://10d614db-b261-49f3-8be2-6641f6aee244@212.192.220.198:50545?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xIDkcZPGFAXteOCua74qjQFgtNMycgagBkhZSvO010g&security=reality&sid=defc5a2a37ad6daf&sni=kinopoisk.ru&type=tcp#🇰🇿 Kazakhstan | Чёрные списки
