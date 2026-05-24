@@ -38,7 +38,7 @@ vless://f1f6e142-77fe-4203-91a0-5082d3ac79ab@45.148.102.96:50592?encryption=none
 
 vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@88.119.176.125:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=lit2.o4ka-internet.com&type=tcp#🇱🇹 Lithuania | Чёрные списки
 
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WdIX2dBCU2C9IgHXeIpJqckDAKBx1D9E4Sa4oL3uYA4&security=reality&sni=sp.frostmotiveseed.net&type=tcp#🇪🇦 Spain | Чёрные списки
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WdIX2dBCU2C9IgHXeIpJqckDAKBx1D9E4Sa4oL3uYA4&security=reality&sni=sp.frostmotiveseed.net&type=tcp#🇪🇸 Spain | Чёрные списки
 
 vless://e1a8186c-caff-4ec3-b301-71d9c479fa56@144.31.219.62:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LzoaC6n2D90znclaqZwocw2dZu1ECYYnSx6mKp5Y43Y&security=reality&sid=a5b791e6&sni=tunnel.vk-apps.com&type=tcp#🇧🇪 Belgium | Чёрные списки
 
@@ -54,7 +54,7 @@ vless://b2e0c259-975f-4a45-b4dd-3eb3689bc247@am.f1vpn.com:443?encryption=none&fl
 
 vless://1a8081ff-61e7-49b5-8e86-1f835ea9e1d1@canada.gogs.ink:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zeWC31vWK-6rMIa_kiqgZLrtnij8TNrqYZzlXC1jzlA&security=reality&sid=9e33c3e0e7d7ff06&sni=addons.mozilla.org&type=tcp#🇨🇦 Canada | Чёрные списки
 
-vless://74c5d1a7-f19b-4a75-8ccd-89a67c78e9ac@217.60.252.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ztO4AghfuTW-qMz9kVc36_oydWTYinifTM5uYJObqRY&security=reality&sni=yandex.ru&type=tcp#🇨🇵 France | Чёрные списки
+vless://74c5d1a7-f19b-4a75-8ccd-89a67c78e9ac@217.60.252.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ztO4AghfuTW-qMz9kVc36_oydWTYinifTM5uYJObqRY&security=reality&sni=yandex.ru&type=tcp#🇫🇷 France | Чёрные списки
 
 vless://c79356f5-9f58-4e2f-bc8a-1e8dddc4473c@sn.f1vpn.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2jPhrDhVnQZxKWilXMCCI4KlppyGerTu8y3qMxSPzUY&security=reality&sid=d11e31f7&sni=play.googleapis.com&type=tcp#🇸🇬 Singapore | Чёрные списки
 
