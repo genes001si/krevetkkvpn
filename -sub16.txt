@@ -24,11 +24,9 @@ vless://de87620b-6bff-4077-99cc-ce65e06b64ed@at3.alexanderoff.ru:4443?encryption
 
 vless://ba0c3094-03c1-4884-9e63-424b2a61e607@95.81.102.224:50559?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ahO41SGyJL-bDya75MzTT1nP1K1XPgrfRaVehmatqQo&security=reality&sid=bb3e2bf4d82cbd97&sni=api-maps.yandex.ru&type=tcp#🇳🇱 Netherlands | Чёрные списки 🔸 
 
-vless://705f783d-5a62-4d15-a0a3-4730e621fa2f@193.233.199.48:50548?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FQZSxw_mfoBvef-9sVriSPYIZzZ-qz-s0JvtiycOYTk&security=reality&sid=25a9e36ac3550c5c&sni=api-maps.yandex.ru&type=tcp#🇫🇮 Finland | Чёрные списки
+vless://705f783d-5a62-4d15-a0a3-4730e621fa2f@193.233.199.48:50548?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FQZSxw_mfoBvef-9sVriSPYIZzZ-qz-s0JvtiycOYTk&security=reality&sid=25a9e36ac3550c5c&sni=api-maps.yandex.ru&type=tcp#🇫🇮 Finland | Чёрные списки 🔸 
 
 vless://9bbc4303-c291-42b8-8eb4-38923f4b6cdd@89.185.81.68:443?encryption=none&fp=chrome&pbk=VKnmZTvFbnmlCDWFpZiLw8054w02QOmXmXVCFFG7T2U&security=reality&sid=d5d0&sni=yahoo.com&type=tcp#🇧🇻 Norway | Чёрные списки
-
-vless://15efeadc-234a-4642-89b1-e34210e51758@45.83.180.223:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&security=reality&sid=6ba85179&sni=ya.ru&type=tcp#🇪🇪 Estonia | Чёрные списки
 
 vless://690cff03-0a82-457a-8532-4a83491458fb@am.synatra.net:4430?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ve_gRq67ZmwVXig3oTSuvgh0UHLktlcwyI5XYP4UMyg&security=reality&sid=657e6f4ccdb8a092&sni=deepl.com&type=tcp#🇦🇲 Armenia | Чёрные списки
 
