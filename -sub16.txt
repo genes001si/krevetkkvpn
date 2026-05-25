@@ -4,46 +4,16 @@
 #profile-web-page-url: t.me/teyck
 #profile-update-interval: 1
 
-vless://16e7af2f-4066-4fa9-ae41-3103a1250591@158.160.246.28:443?security=reality&encryption=none&pbk=NaONDf0qCoNVteBefVS25yLJbMMLdnKnwsu7_il9MXE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺 Russia | Белые списки
-
-vless://16e7af2f-4066-4fa9-ae41-3103a1250591@46.182.24.123:443?mode=gun&security=reality&encryption=none&authority=&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=qq&spx=%2F&allowinsecure=0&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=6ba85179e30d4fc2#🇳🇱 Netherlands | Белые списки
-
-
-
-vless://23acdb93-4044-4eeb-a693-da04eca9e114@185.185.143.220:27602?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CVPzpNUEIHhWOP8xSK1KJnwc5Ga7EDKLbiMPv2PtECM&security=reality&sid=89e9d68036cbc5cd&sni=www.samsung.com&type=tcp#🇬🇧 Great Britain | Чёрные списки
-
-vless://7aef496b-2461-42d6-8fce-4510b156ba8f@178.17.58.42:50582?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DUHT5354ieHmoMuJLXBK2pRl76tHHargK_Nh8WpztDM&security=reality&sid=c865239457c2696f&sni=api-maps.yandex.ru&type=tcp#🇩🇪 Germany | Чёрные списки
-
-vless://f1f6e142-77fe-4203-91a0-5082d3ac79ab@45.148.102.96:50592?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x5jwmQm5BbUB0DqBH3astV5c2fXCsgCLe0UTMKp9HRY&security=reality&sid=2d3a77820c255e18&sni=kinopoisk.ru&type=tcp#🇨🇭 Switzerland | Чёрные списки
-
-vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@88.119.176.125:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=lit2.o4ka-internet.com&type=tcp#🇱🇹 Lithuania | Чёрные списки
-
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WdIX2dBCU2C9IgHXeIpJqckDAKBx1D9E4Sa4oL3uYA4&security=reality&sni=sp.frostmotiveseed.net&type=tcp#🇪🇸 Spain | Чёрные списки 🔸
-
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@at3.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y-YdtljDOJbFMqAA7xLO5cTrx6Fy7Ij0Bd6XQTUJQkU&security=reality&sni=at3.frostmotiveseed.net&type=tcp#🇦🇹 Austria | Чёрные списки
-
-vless://ba0c3094-03c1-4884-9e63-424b2a61e607@95.81.102.224:50559?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ahO41SGyJL-bDya75MzTT1nP1K1XPgrfRaVehmatqQo&security=reality&sid=bb3e2bf4d82cbd97&sni=api-maps.yandex.ru&type=tcp#🇳🇱 Netherlands | Чёрные списки 🔸 
-
-vless://705f783d-5a62-4d15-a0a3-4730e621fa2f@193.233.199.48:50548?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FQZSxw_mfoBvef-9sVriSPYIZzZ-qz-s0JvtiycOYTk&security=reality&sid=25a9e36ac3550c5c&sni=api-maps.yandex.ru&type=tcp#🇫🇮 Finland | Чёрные списки 🔸 
-
-vless://9bbc4303-c291-42b8-8eb4-38923f4b6cdd@89.185.81.68:443?encryption=none&fp=chrome&pbk=VKnmZTvFbnmlCDWFpZiLw8054w02QOmXmXVCFFG7T2U&security=reality&sid=d5d0&sni=yahoo.com&type=tcp#🇧🇻 Norway | Чёрные списки
-
-vless://690cff03-0a82-457a-8532-4a83491458fb@am.synatra.net:4430?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ve_gRq67ZmwVXig3oTSuvgh0UHLktlcwyI5XYP4UMyg&security=reality&sid=657e6f4ccdb8a092&sni=deepl.com&type=tcp#🇦🇲 Armenia | Чёрные списки
-
-vless://15efeadc-234a-4642-89b1-e34210e51758@89.44.80.22:59999?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&security=reality&sid=3e4f5a6b&sni=yastatic.net&type=tcp#🇦🇪 United Arab Emirates | Чёрные списки
-
-vless://15efeadc-234a-4642-89b1-e34210e51758@185.72.86.180:59999?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&security=reality&sid=a1b2c3d4&sni=yastatic.net&type=tcp#🇱🇻 Latvia | Чёрные списки 
-
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru-service5.alexanderoff.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=y7KvEE3JCmQfLv2p6xFCWU3PGjcRRfqcbjj4wz_Nu3k&security=reality&sni=ru-service5.frostmotiveseed.net&type=tcp#🇸🇬 Singapore | Чёрные списки
-
-vless://ba0c3094-03c1-4884-9e63-424b2a61e607@95.81.102.224:50559?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ahO41SGyJL-bDya75MzTT1nP1K1XPgrfRaVehmatqQo&security=reality&sid=bb3e2bf4d82cbd97&sni=api-maps.yandex.ru&type=tcp#🇮🇹 Italy | Чёрные списки 🔸 
-
-vless://16e7af2f-4066-4fa9-ae41-3103a1250591@144.31.218.186:443?security=reality&encryption=none&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#🇨🇿 Czechia | Чёрные списки
-
-vless://16e7af2f-4066-4fa9-ae41-3103a1250591@144.31.219.110:443?security=reality&encryption=none&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#🇧🇪 Belgium | Чёрные списки
-
 vless://f8fd47cc-dfdc-429d-a864-edc5dbd462ab@pl-1.maxg.ch:443?security=reality&encryption=none&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇵🇱 Poland | Чёрные списки
 
-vless://10d614db-b261-49f3-8be2-6641f6aee244@212.192.220.198:50545?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xIDkcZPGFAXteOCua74qjQFgtNMycgagBkhZSvO010g&security=reality&sid=defc5a2a37ad6daf&sni=kinopoisk.ru&type=tcp#🇰🇿 Kazakhstan | Чёрные списки
+hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France 1 | Чёрные списки 🔸 
 
-hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France | Чёрные списки 🔸 
+hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France 2 | Чёрные списки
+
+hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.132:443/?sni=holz6.api3-max.ru#🇫🇷 France 3 | Чёрные списки
+
+hysteria2://hysteria2_fastlane_210pha9tw%3AvpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935/?sni=de2.h.fastlanehosting.ru#🇩🇪 Germany 1 | Чёрные списки
+
+hysteria2://hysteria2_fastlane_fur39yrgc%3A4hwuV1rbgM9x9MqtdBRynHns19kPd32F@2.27.28.103:1935/?sni=de4.h.fastlanehosting.ru#🇩🇪 Germany 2 | Чёрные списки
+
+hysteria2://hysteria2_fastlane_ed99tc97i%3AJDjsjhZmEcKbAIX6HznIHXkeIwqAYbJN@64.188.74.69:1935/?sni=fn1.h.fastlanehosting.ru#🇫🇮 Finland | Чёрные списки
