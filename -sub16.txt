@@ -48,4 +48,10 @@ vless://16e7af2f-4066-4fa9-ae41-3103a1250591@144.31.218.186:443?security=reality
 
 vless://16e7af2f-4066-4fa9-ae41-3103a1250591@144.31.219.110:443?security=reality&encryption=none&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#🇧🇪 Belgium | Чёрные списки
 
+vless://f8fd47cc-dfdc-429d-a864-edc5dbd462ab@pl-1.maxg.ch:443?security=reality&encryption=none&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇵🇱 Poland | Чёрные списки
+
+vless://10d614db-b261-49f3-8be2-6641f6aee244@212.192.220.198:50545?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xIDkcZPGFAXteOCua74qjQFgtNMycgagBkhZSvO010g&security=reality&sid=defc5a2a37ad6daf&sni=kinopoisk.ru&type=tcp#🇰🇿 Kazakhstan | Чёрные списки
+
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@163.5.58.140:443?encryption=none&host=sni.skylee4.cloudns.ch&path=%2F&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇭🇰 HongKong | Чёрные списки
+
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France | Чёрные списки 🔸 
