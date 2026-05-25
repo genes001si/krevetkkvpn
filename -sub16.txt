@@ -16,9 +16,4 @@ hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443?security=tls&
 
 hysteria2://hysteria2_fastlane_210pha9tw%3AvpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935/?sni=de2.h.fastlanehosting.ru#🇩🇪 Germany 1 | Чёрные списки
 
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@de.sbrf-cdn342.ru:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇩🇪 Germany 2 | Чёрные списки
-
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fi-g.sbrf-cdn342.ru:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇫🇮 Finland 1 | Чёрные списки
-
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fi-g.sbrf-cdn342.ru:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇫🇮 Finland 2 | Чёрные списки
-
+hysteria2://hysteria2_fastlane_210pha9tw:vpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935?security=tls&fm=%7B%7D&allowinsecure=0&sni=de2.h.fastlanehosting.ru#🇩🇪 Germany 2 | Чёрные списки
