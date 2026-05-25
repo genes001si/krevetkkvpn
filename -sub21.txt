@@ -6,6 +6,8 @@
 
 vless://f8fd47cc-dfdc-429d-a864-edc5dbd462ab@pl-1.maxg.ch:443?security=reality&encryption=none&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇵🇱 Poland | Чёрные списки 🔸 
 
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&encryption=none&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#🇬🇪 Georgia | Чёрные списки 🔸 
+
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France 1.1 | Чёрные списки 🔸 
 
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#🇫🇷 France 1.2 | Чёрные списки 🔸 
@@ -18,8 +20,4 @@ hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.132:443?security=tls&
 
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=1&type=ws&sni=www.calmlunch.com#🇫🇷 France 2.1 | Чёрные списки
 
-trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&security=tls&fp=chrome&allowinsecure=0&type=ws&sni=www.calmlunch.com#🇫🇷 France 2.2 | Чёрные списки
-
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmlunch.com#🇫🇷 France 2.3 | Чёрные списки
-
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&encryption=none&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#🇬🇪 Georgia | Чёрные списки
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmlunch.com#🇫🇷 France 2.2 | Чёрные списки
