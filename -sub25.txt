@@ -20,3 +20,4 @@ vless://83d6b8fe-14d5-4e02-981a-56a405a79864@es.node.ghostsyvpn.org:443?security
 
 vless://83d6b8fe-14d5-4e02-981a-56a405a79864@pl.node.ghostsyvpn.org:443?security=reality&encryption=none&pbk=03MJy26A8kc5c8aMMdkY3s_CX3qiw0eTmjrc3UCBLm0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl.node.ghostsyvpn.org#🇩🇪 Germany | Чёрные списки
 
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443/?sni=s516.okgfw.top#🇷🇺 Russia | Чёрные списки 
