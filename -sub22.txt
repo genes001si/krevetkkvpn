@@ -6,22 +6,10 @@
 
 vless://7fe3f1bf-250f-40a5-aa9b-3016710f6a39@fr-u10.vpn-port.com:443?encryption=none&fp=chrome&pbk=8oMDFuz9y1LM6n-eJ7x2pPVvEDevdhgfJDvMbvQBXUc&security=reality&sid=27&sni=www.yimg.com&type=grpc#🇫🇷 France | Чёрные списки
 
-vless://52ed0696-a336-4b02-a6d5-272f61738ad9@fi-u3.vpn-port.com:443?encryption=none&fp=chrome&pbk=mkB_FtED99zomLU--rmx_9fOFdQ1cfLrr8yi5KZp8Qc&security=reality&sid=5ad7e18ea9&sni=www.yimg.com&type=grpc#🇫🇮 Finland | Чёрные списки
+vless://0537e5d5-8d2f-4f82-b660-ebf94062f67e@2.26.87.101:4443?encryption=none&fp=chrome&pbk=cPnEvtfmLBeYzbYYklKblkllFRzRzCd0KgFM-19fSDM&security=reality&sid=c9&sni=eh.vk.com&type=tcp#🇫🇮 Finland | Чёрные списки
 
-vless://0537e5d5-8d2f-4f82-b660-ebf94062f67e@2.26.87.101:4443?encryption=none&fp=chrome&pbk=cPnEvtfmLBeYzbYYklKblkllFRzRzCd0KgFM-19fSDM&security=reality&sid=c9&sni=eh.vk.com&type=tcp#🇫🇮 Finland 2 | Чёрные списки
+vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@2.27.57.48:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z-YjJMUiR-xIvm4rr0p6-CQjg8TzkvZkjG1PARUaJR0&security=reality&sid=aad2031b6b7d7440&sni=wikipedia.org&type=tcp#🇵🇱 Poland | Чёрные списки
 
-vless://feae759b-c492-4e41-975d-c6315a40bcf9@95.85.227.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eLDbbbpsbgPHP6kVW695Pi-VCRfIx9x6nRAJl0oT3WU&security=reality&sid=a26ebcc1cb&sni=teamdocs.su&type=tcp#🇵🇱 Poland | Чёрные списки
-
-vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@2.27.57.48:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z-YjJMUiR-xIvm4rr0p6-CQjg8TzkvZkjG1PARUaJR0&security=reality&sid=aad2031b6b7d7440&sni=wikipedia.org&type=tcp#🇵🇱 Poland 2 | Чёрные списки
-
-vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@2.27.57.51:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CNfqXMJooEc5OMoGPQJRWk0b1ZqjdqzY7H4BXM3nVDs&security=reality&sid=aad2031b6b7d7440&sni=google.com&type=tcp#🇵🇱 Poland 3 | Чёрные списки
-
-vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@polkaff3.de1beast3xui.ru:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CNfqXMJooEc5OMoGPQJRWk0b1ZqjdqzY7H4BXM3nVDs&security=reality&sid=aad2031b6b7d7440&sni=google.com&type=tcp#🇵🇱 Poland 4 | Чёрные списки
-
-vless://e3da803c-9c04-4ffb-a0f2-32cda93dd868@pl-1.shadowhub.cc:443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=OgJz7oQ3aYL5w5mQjdMp0QgCTwRoPuj0LgEZlBtpTRY&security=reality&sid=6fce2d08&sni=static.gcore.pro&type=xhttp#🇵🇱 Poland 5 | Чёрные списки
+vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@2.27.57.51:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CNfqXMJooEc5OMoGPQJRWk0b1ZqjdqzY7H4BXM3nVDs&security=reality&sid=aad2031b6b7d7440&sni=google.com&type=tcp#🇵🇱 Poland 2 | Чёрные списки
 
 vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@89.125.78.81:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=r5EzvBAd05xtjMQD_gKnYPrHwDyRD-xJvKxWd_Xq7FA&security=reality&sid=fcdc24ecde9642&sni=eh.vk.com&type=tcp#🇳🇱 Netherlands | Чёрные списки
-
-vless://392e4a69-bf35-40ef-a73c-34ac8c9e0136@109.120.191.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=platform-api.max.ru&type=tcp#🇷🇺 Russia | Чёрные списки
-
-vless://392e4a69-bf35-40ef-a73c-34ac8c9e0136@109.120.188.50:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#🇷🇺 Russia 2 | Чёрные списки
