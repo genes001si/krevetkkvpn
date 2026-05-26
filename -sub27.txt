@@ -10,10 +10,6 @@ vless://0537e5d5-8d2f-4f82-b660-ebf94062f67e@2.26.87.101:4443?encryption=none&fp
 
 vless://392e4a69-bf35-40ef-a73c-34ac8c9e0136@95.163.251.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#🇫🇮 Finland 2 | Чёрные списки
 
-vless://392e4a69-bf35-40ef-a73c-34ac8c9e0136@109.120.191.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=platform-api.max.ru&type=tcp#🇫🇮 Finland 3 | Чёрные списки
-
-vless://392e4a69-bf35-40ef-a73c-34ac8c9e0136@217.16.19.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=yandex.ru&type=tcp#🇫🇮 Finland 4 | Чёрные списки
-
 vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@2.27.57.48:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z-YjJMUiR-xIvm4rr0p6-CQjg8TzkvZkjG1PARUaJR0&security=reality&sid=aad2031b6b7d7440&sni=wikipedia.org&type=tcp#🇵🇱 Poland | Чёрные списки
 
 vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@2.27.57.51:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CNfqXMJooEc5OMoGPQJRWk0b1ZqjdqzY7H4BXM3nVDs&security=reality&sid=aad2031b6b7d7440&sni=google.com&type=tcp#🇵🇱 Poland 2 | Чёрные списки
@@ -22,20 +18,6 @@ vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@89.125.78.81:8443?encryption=none&f
 
 vless://83d6b8fe-14d5-4e02-981a-56a405a79864@nl.node.ghostsyvpn.org:443?security=reality&encryption=none&pbk=cGG5BPfd29vY7UDbip1mVMPec5cNBEj50n5Lo0pEZQs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.node.ghostsyvpn.org#🇳🇱 Netherlands 2 | Чёрные списки
 
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@194.156.101.115:443?encryption=&flow=&fp=chrome&pbk=QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0&security=reality&serviceName=vless&sid=abcdef123456&sni=0w7ymj.spectrum.vu&type=grpc#🇳🇱 Netherlands 3 | Чёрные списки 
-
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@194.156.101.115:443?encryption=&flow=&fp=chrome&pbk=QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0&security=reality&serviceName=vless&sid=7890abcdef01&sni=0w7ymj.spectrum.vu&type=grpc#🇳🇱 Netherlands 4 | Чёрные списки
-
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@194.156.101.115:443?encryption=&flow=&fp=chrome&pbk=QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0&security=reality&serviceName=vless&sid=7890abcdef01&sni=0w7ymj.spectrum.vu&type=grpc#🇳🇱 Netherlands 5 | Чёрные списки
-
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@194.156.101.115:443?encryption=none&flow=&fp=chrome&pbk=QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0&security=reality&serviceName=vless&sid=a1b2c3d4e5f6&sni=0w7ymj.spectrum.vu&type=grpc#🇳🇱 Netherlands 6 | Чёрные списки
-
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@194.156.101.115:443?encryption=none&flow=&fp=chrome&pbk=QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0&security=reality&serviceName=vless&sid=abcdef123456&sni=0w7ymj.spectrum.vu&type=grpc#🇳🇱 Netherlands 7 | Чёрные списки
-
 vless://83d6b8fe-14d5-4e02-981a-56a405a79864@es.node.ghostsyvpn.org:443?security=reality&encryption=none&pbk=miKCJnbPqRL2LrIbQxglhXrVM2FzTdw8kWKEKqNsCRI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=es.node.ghostsyvpn.org#🇪🇪 Estonia | Чёрные списки
 
 vless://83d6b8fe-14d5-4e02-981a-56a405a79864@pl.node.ghostsyvpn.org:443?security=reality&encryption=none&pbk=03MJy26A8kc5c8aMMdkY3s_CX3qiw0eTmjrc3UCBLm0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl.node.ghostsyvpn.org#🇩🇪 Germany | Чёрные списки
-
-vless://53a0321d-1c78-4283-b459-64e395004488@de.datanode-internal.net:443?encryption=&flow=xtls-rprx-vision&fp=qq&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&security=reality&sid=abbcd128&sni=sun9-37.userapi.com&type=tcp#🇩🇪 Germany 2 | Чёрные списки
-
-vless://53a0321d-1c78-4283-b459-64e395004488@ru.datanode-internal.net:443?encryption=&flow=xtls-rprx-vision&fp=qq&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&security=reality&sid=abbcd128&sni=sun9-38.userapi.com&type=tcp#🇷🇺 Russia | Чёрные списки
